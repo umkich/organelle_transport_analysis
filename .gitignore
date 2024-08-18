@@ -1,0 +1,5 @@
+**/*.png
+**/*.csv
+**/__pycache__/**
+src/organelle_transport_analysis.**
+example/.ipynb_checkpoints
